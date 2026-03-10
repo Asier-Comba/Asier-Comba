@@ -9,6 +9,16 @@ Desarrollador en constante evolución, autodidacta empedernido y apasionado de l
 
 ---
 
+<div align="center">
+
+## ⚡ Stack Tecnológico
+
+[![Skills](https://skillicons.dev/icons?i=java,python,c,cpp,mysql,linux,git,github&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
 ## 🚀 Sobre Mí
 
 - **🔩 Donde el hardware se encuentra con el software.** Mi paso por el departamento de Electrónica e Informática de Deusto Moto Student me ha dado una perspectiva que pocos desarrolladores tienen: entender el sistema completo, desde la señal hasta el algoritmo. No programo en el vacío, programo para que las cosas funcionen en el mundo real.
@@ -18,16 +28,6 @@ Desarrollador en constante evolución, autodidacta empedernido y apasionado de l
 - **⚙️ Código con propósito: rendimiento y eficiencia ante todo.** Mi filosofía de desarrollo está moldeada por años trabajando con **C y C++**: cada ciclo de CPU importa, cada byte cuenta. Complemento esa mentalidad de bajo nivel con diseño de bases de datos robustas en **SQL** para construir sistemas que no solo funcionan, sino que escalan.
 
 - **🎓 Ingeniería Informática en la Universidad de Deusto.** Un entorno exigente donde resuelvo problemas complejos a diario, desde algoritmos y estructuras de datos hasta sistemas distribuidos, y cada reto es una oportunidad para ir un paso más allá.
-
----
-
-<div align="center">
-
-## ⚡ Stack Tecnológico
-
-[![Skills](https://skillicons.dev/icons?i=java,python,c,cpp,mysql,linux,git,github&theme=dark)](https://skillicons.dev)
-
-</div>
 
 ---
 
