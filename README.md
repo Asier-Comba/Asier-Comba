@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Asier-Comba.png" width="120" style="border-radius: 50%;" />
+
 # Asier Comba
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingeniería+Informática;Apasionado+de+la+Inteligencia+Artificial;Hardware+%2B+Software+%3D+Potencia+Real;Deusto+Moto+Student+%7C+Electrónica+%26+Informática" alt="Typing SVG" />
@@ -42,19 +44,6 @@
 |---|---|
 | ♟️ **[DeustoChess](https://github.com/Asier-Comba/DeustoChess)** | Ajedrez reinventado en la Universidad de Deusto. Piezas únicas, minijuegos y habilidades especiales que transforman cada partida en caos estratégico. |
 | 🌫️ **[DeustoAir](https://github.com/Asier-Comba/DeustoAir)** | Sistema cliente-servidor en C para la gestión y consulta de datos de calidad del aire en tiempo real. Arquitectura robusta, eficiencia de bajo nivel. |
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Asier-Comba&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asier-Comba&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Asier-Comba&theme=github-dark&hide_border=true&locale=es" />
-
-</div>
 
 ---
 
