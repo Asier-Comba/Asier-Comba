@@ -21,6 +21,16 @@ Desarrollador en constante evolución, autodidacta empedernido y apasionado de l
 
 ---
 
+<div align="center">
+
+## ⚡ Stack Tecnológico
+
+[![Skills](https://skillicons.dev/icons?i=java,python,c,cpp,mysql,linux,git,github&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
 ## 🌱 Explorando Actualmente
 
 Profundizando en el ecosistema de **Machine Learning e Inteligencia Artificial**: desde la teoría estadística hasta la implementación práctica de modelos. En paralelo, aplicando conocimientos de programación de bajo nivel al desarrollo de **sistemas eficientes**, explorando la intersección entre rendimiento computacional y arquitecturas modernas.
@@ -37,12 +47,6 @@ Profundizando en el ecosistema de **Machine Learning e Inteligencia Artificial**
 ---
 
 <div align="center">
-
-## ⚡ Stack Tecnológico
-
-[![Skills](https://skillicons.dev/icons?i=java,python,c,cpp,mysql,linux,git,github&theme=dark)](https://skillicons.dev)
-
----
 
 ## 🤝 Contacto
 
