@@ -13,13 +13,6 @@ Desarrollador en constante evolución, autodidacta empedernido y apasionado de l
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=Asier-Comba&show_icons=true&theme=tokyo-night&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asier-Comba&layout=compact&theme=tokyo-night&hide_border=true&langs_count=8" height="165"/>
-
----
-
 ## 🤝 Contacto
 
 [![Email](https://img.shields.io/badge/Email-asier.comba%40opendeusto.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asier.comba@opendeusto.es)
