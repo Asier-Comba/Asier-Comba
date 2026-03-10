@@ -4,11 +4,11 @@
 
 # Asier Comba
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingeniería+Informática;Apasionado+de+la+Inteligencia+Artificial;Hardware+%2B+Software+%3D+Potencia+Real;Deusto+Moto+Student+%7C+Electrónica+%26+Informática" alt="Typing SVG" />
+### Estudiante de Ingeniería Informática · Universidad de Deusto
 
----
+🏍️ Departamento de Electrónica e Informática — **Deusto Moto Student**
 
-🎓 **Universidad de Deusto** &nbsp;·&nbsp; 🏍️ **Deusto Moto Student** — Electrónica e Informática
+🤖 Apasionado de la **Inteligencia Artificial** · ⚙️ Desarrollador de sistemas de bajo nivel
 
 </div>
 
