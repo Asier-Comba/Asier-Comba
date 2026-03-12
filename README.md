@@ -48,6 +48,7 @@
 
 | Proyecto | Descripción |
 |---|---|
+| 💪 **[Metafit — MateoVonCoach](https://github.com/Asier-Comba/Appweb-MateoVonCoach)** | Plataforma web full-stack de coaching fitness. Área privada de cliente con dashboard, rutinas, plan nutricional, seguimiento de progreso y chat con el coach. Stack: React 18 · Vite · Tailwind CSS · Supabase. |
 | ♟️ **[DeustoChess](https://github.com/Asier-Comba/DeustoChess)** | Ajedrez reinventado en la Universidad de Deusto. Piezas únicas, minijuegos y habilidades especiales que transforman cada partida en caos estratégico. |
 | 🌫️ **[DeustoAir](https://github.com/Asier-Comba/DeustoAir)** | Sistema cliente-servidor en C para la gestión y consulta de datos de calidad del aire en tiempo real. Arquitectura robusta, eficiencia de bajo nivel. |
 | 🏠 **[AhorraAislando](https://www.ahorraaislando.es)** | Web profesional para empresa de aislamiento térmico en el País Vasco. Desarrollada con React 19, Tailwind CSS y Framer Motion. |
