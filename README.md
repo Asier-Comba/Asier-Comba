@@ -18,7 +18,13 @@
 
 <div align="center">
 
+**Sistemas & Backend**
+
 [![Skills](https://skillicons.dev/icons?i=java,python,c,cpp,mysql,linux,git,github,vscode,bash&theme=dark)](https://skillicons.dev)
+
+**Web & Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -44,6 +50,7 @@
 |---|---|
 | ♟️ **[DeustoChess](https://github.com/Asier-Comba/DeustoChess)** | Ajedrez reinventado en la Universidad de Deusto. Piezas únicas, minijuegos y habilidades especiales que transforman cada partida en caos estratégico. |
 | 🌫️ **[DeustoAir](https://github.com/Asier-Comba/DeustoAir)** | Sistema cliente-servidor en C para la gestión y consulta de datos de calidad del aire en tiempo real. Arquitectura robusta, eficiencia de bajo nivel. |
+| 🏠 **[AhorraAislando](https://www.ahorraaislando.es)** | Web profesional para empresa de aislamiento térmico en el País Vasco. Desarrollada con React 19, Tailwind CSS y Framer Motion. |
 
 ---
 
