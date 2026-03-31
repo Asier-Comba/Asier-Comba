@@ -6,9 +6,8 @@
 
 ### Estudiante de Ingeniería Informática · Universidad de Deusto
 
-🏍️ Departamento de Electrónica e Informática — **Deusto Moto Student**
-
-🤖 Apasionado de la **Inteligencia Artificial** · ⚙️ Desarrollador de sistemas de bajo nivel
+🏍️ Deusto Moto Student — Departamento de Electrónica e Informática
+🤖 Apasionado de la **Inteligencia Artificial** · ⚙️ Sistemas de bajo nivel
 
 </div>
 
@@ -26,32 +25,58 @@
 
 [![Skills](https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js&theme=dark)](https://skillicons.dev)
 
+**IA & Computer Vision**
+
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## 🧠 Proyectos de Inteligencia Artificial
 
-- **🔩 Donde el hardware se encuentra con el software.** Mi paso por el departamento de Electrónica e Informática de Deusto Moto Student me ha dado una perspectiva que pocos desarrolladores tienen: entender el sistema completo, desde la señal hasta el algoritmo. No programo en el vacío, programo para que las cosas funcionen en el mundo real.
-
-- **🧠 La IA no es una moda para mí, es una obsesión.** Invierto mi tiempo libre en formarme de manera autodidacta en arquitecturas de redes neuronales, modelos de lenguaje y fundamentos matemáticos del aprendizaje automático. Creo firmemente que la IA es la herramienta más transformadora de nuestra generación, y quiero dominarla.
-
-- **⚙️ Código con propósito: rendimiento y eficiencia ante todo.** Mi filosofía de desarrollo está moldeada por años trabajando con **C y C++**: cada ciclo de CPU importa, cada byte cuenta. Complemento esa mentalidad de bajo nivel con diseño de bases de datos robustas en **SQL** para construir sistemas que no solo funcionan, sino que escalan.
-
-- **🎓 Ingeniería Informática en la Universidad de Deusto.** Un entorno exigente donde resuelvo problemas complejos a diario, desde algoritmos y estructuras de datos hasta sistemas distribuidos, y cada reto es una oportunidad para ir un paso más allá.
-
-- **🌱 Explorando actualmente:** Profundizando en el ecosistema de **Machine Learning e IA**, desde teoría estadística hasta implementación práctica de modelos, en la intersección entre rendimiento computacional y arquitecturas modernas.
+| Proyecto | Tecnología | Descripción |
+|---|---|---|
+| 👁️ **[Detector de Somnolencia](https://github.com/Asier-Comba/Detector_de_somnolencia)** | face-api.js · TF.js | Detecta si te quedas dormido en tiempo real mediante el Eye Aspect Ratio (EAR). Alerta visual y sonora. 100% en el navegador. |
+| 🔴 **[4 en Raya IA](https://github.com/Asier-Comba/CuatroEnRaya)** | Minimax · Alpha-Beta | Juega al 4 en Raya contra una IA que explora millones de jugadas posibles. Tres niveles de dificultad. |
+| 🍉 **[Fruit Ninja Interactivo](https://github.com/Asier-Comba/FruitNinjaInteractivo)** | TensorFlow.js · MoveNet | Juega al Fruit Ninja con las manos — sin mandos ni teclado. Detección de pose en tiempo real. |
+| 💪 **[Contador de Sentadillas](https://github.com/Asier-Comba/Contador-sentadilas)** | TensorFlow.js · MoveNet | Cuenta sentadillas automáticamente con la cámara. Análisis de ángulos articulares en tiempo real. |
+| 🏋️ **[Contador de Burpees](https://github.com/Asier-Comba/Contador-Burpies)** | TensorFlow.js · MoveNet | Detecta y cuenta burpees con visión por computador. Con motivación de Llados incluida. |
 
 ---
 
-## 🏆 Proyectos Destacados
+## 🚀 Otros Proyectos
 
 | Proyecto | Descripción |
 |---|---|
-| 💪 **[Metafit — MateoVonCoach](https://github.com/Asier-Comba/Appweb-MateoVonCoach)** | Plataforma web full-stack de coaching fitness. Área privada de cliente con dashboard, rutinas, plan nutricional, seguimiento de progreso y chat con el coach. Stack: React 18 · Vite · Tailwind CSS · Supabase. 🌐 [www.mateovoncoach.com](https://www.mateovoncoach.com/) |
-| ♟️ **[DeustoChess](https://github.com/Asier-Comba/DeustoChess)** | Ajedrez reinventado en la Universidad de Deusto. Piezas únicas, minijuegos y habilidades especiales que transforman cada partida en caos estratégico. |
-| 🌫️ **[DeustoAir](https://github.com/Asier-Comba/DeustoAir)** | Sistema cliente-servidor en C para la gestión y consulta de datos de calidad del aire en tiempo real. Arquitectura robusta, eficiencia de bajo nivel. |
-| 🏠 **[AhorraAislando](https://www.ahorraaislando.es)** | Web profesional para empresa de aislamiento térmico en el País Vasco. Desarrollada con React 19, Tailwind CSS y Framer Motion. |
+| 💪 **[MateoVonCoach](https://github.com/Asier-Comba/Appweb-MateoVonCoach)** | Plataforma web full-stack de coaching fitness. Dashboard, rutinas, plan nutricional y chat con el coach. React 18 · Vite · Tailwind · Supabase. 🌐 [mateovoncoach.com](https://www.mateovoncoach.com/) |
+| 🏠 **[AhorraAislando](https://github.com/Asier-Comba/web-ahorraaislando)** | Web profesional para empresa de aislamiento térmico en el País Vasco. React 19 · Tailwind · Framer Motion. 🌐 [ahorraaislando.es](https://www.ahorraaislando.es) |
+| ♟️ **[DeustoChess](https://github.com/Asier-Comba/DeustoChess)** | Ajedrez reinventado en Deusto. Piezas únicas, minijuegos y habilidades especiales. |
+| 🌫️ **[DeustoAir](https://github.com/Asier-Comba/DeustoAir)** | Sistema cliente-servidor en C para gestión y consulta de datos de calidad del aire en tiempo real. |
+
+---
+
+## 🙋 Sobre Mí
+
+- **🧠 La IA no es una moda, es una obsesión.** Me formo de manera autodidacta en visión por computador, modelos de lenguaje y aprendizaje automático. Creo que la IA es la herramienta más transformadora de nuestra generación.
+
+- **🔩 Donde el hardware se encuentra con el software.** Mi paso por Deusto Moto Student me ha dado una perspectiva única: entender el sistema completo, desde la señal hasta el algoritmo.
+
+- **⚙️ Código con propósito: rendimiento y eficiencia ante todo.** Mi filosofía está moldeada por años trabajando con C y C++: cada ciclo de CPU importa. Complemento esa mentalidad con diseño de sistemas robustos y escalables.
+
+- **🌱 Explorando actualmente:** Profundizando en LLMs, RAG, agentes de IA y la intersección entre rendimiento computacional y arquitecturas modernas.
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asier-Comba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asier-Comba&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
